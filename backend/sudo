@@ -1,0 +1,8 @@
+
+> nodemon@2.0.2 postinstall /home/luis/Semana OmniStack 11/Rocketseat/aulas/backend/node_modules/nodemon
+> node bin/postinstall || exit 0
+
++ nodemon@2.0.2
+updated 1 package and audited 267 packages in 5.64s
+found 0 vulnerabilities
+
