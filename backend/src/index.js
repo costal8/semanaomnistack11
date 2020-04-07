@@ -3,7 +3,7 @@ const cors = require('cors'); // importando a blibioteca
 const routes = require('./routes'); // ./ para referenciar arquivos 
 const app = express(); //instanciando a aplicação
 
-app.use(cors());
+app.use(cors());// modulo de segurança controla quem tem acesso a aplicação
 app.use(express.json()); // requisições converte para javascripts
 app.use(routes)
 
